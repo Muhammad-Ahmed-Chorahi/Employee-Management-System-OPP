@@ -29,7 +29,7 @@ To get started with the Employee Management System, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/muhammad-ahmed-chorahi/employee-management-system.git
 
 2. Navigate to the project directory:
 
